@@ -1,2 +1,3 @@
-# projects
+# Projects
 This is my first Git repository 
+Author -Sakshi bisen
